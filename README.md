@@ -4,8 +4,8 @@
 
 ### Prerequisites
 
-java： jdk = 1.8
-python: python = 2.7
+jdk = 1.8
+python = 2.7
 
 
 ### Contributing
