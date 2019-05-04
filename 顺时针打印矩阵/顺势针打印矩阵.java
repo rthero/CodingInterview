@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Solution {
     public ArrayList<Integer> printMatrix(int[][] matrix) {
         ArrayList<Integer> list = new ArrayList<>();
-        if (matrix.length == 0) {
+        if (matrix == null) {
             return null;
         }
         int row = matrix.length;
